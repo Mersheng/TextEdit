@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 class HcFonts extends TextStyle {
   static TextStyle getTextStyleWithName(String name) {
     String splitName = name.split('/').last;
-    return TextStyle(fontFamily: splitName, package: 'persian_fonts');
+    return TextStyle(fontFamily: splitName);
   }
 
   static TextStyle getTextStyleWithId(int id) {
@@ -99,7 +99,7 @@ class HcFonts extends TextStyle {
     }
   }
 
-  static const Hc_1 = TextStyle(fontFamily: 'hc_1', package: 'persian_fonts');
+  static const Hc_1 = TextStyle(fontFamily: 'hc_1');
 
   static TextTheme hc1TextTheme = TextTheme(
     headline2: HcFonts.Hc_1,
@@ -117,7 +117,7 @@ class HcFonts extends TextStyle {
     overline: HcFonts.Hc_1,
   );
 
-  static const Hc_2 = TextStyle(fontFamily: 'hc_2', package: 'persian_fonts');
+  static const Hc_2 = TextStyle(fontFamily: 'hc_2');
 
   static TextTheme hc2TextTheme = TextTheme(
     headline2: HcFonts.Hc_2,
