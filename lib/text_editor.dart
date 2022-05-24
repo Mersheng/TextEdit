@@ -186,7 +186,7 @@ class _TextEditorState extends State<TextEditor> {
                     child: Container(
                       child: Center(
                         child: TextField(
-                          controller: TextEditingController()..selection= TextSelection(baseOffset:_textStyleModel.text.length , extentOffset:_textStyleModel.text.length)
+                          controller: TextEditingController()
                             ..text = _textStyleModel.text,
                           onChanged: (value) => _textStyleModel.text = value,
                           maxLines: null,
