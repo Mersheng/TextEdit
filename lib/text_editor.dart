@@ -112,7 +112,7 @@ class _TextEditorState extends State<TextEditor> {
 
     // Initialize decorator
     _doneButton = widget.decoration?.doneButton ??
-        Text('Done', style: TextStyle(color: Colors.white));
+        Text('完成', style: TextStyle(color: Colors.white));
 
     super.initState();
   }
