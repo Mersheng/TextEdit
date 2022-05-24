@@ -1,4 +1,4 @@
-library HcFonts;
+library persian_fonts;
 
 import 'package:flutter/material.dart';
 
