@@ -99,7 +99,7 @@ class HcFonts extends TextStyle {
     }
   }
 
-  static const Hc_1 = TextStyle(fontFamily: 'hc_1');
+  static const Hc_1 = TextStyle(fontFamily: 'hc_1', package: 'persian_fonts');
 
   static TextTheme hc1TextTheme = TextTheme(
     headline2: HcFonts.Hc_1,
@@ -117,7 +117,7 @@ class HcFonts extends TextStyle {
     overline: HcFonts.Hc_1,
   );
 
-  static const Hc_2 = TextStyle(fontFamily: 'hc_2');
+  static const Hc_2 = TextStyle(fontFamily: 'hc_2', package: 'persian_fonts');
 
   static TextTheme hc2TextTheme = TextTheme(
     headline2: HcFonts.Hc_2,
