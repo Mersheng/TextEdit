@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 class HcFonts extends TextStyle {
   static TextStyle getTextStyleWithName(String name) {
     String splitName = name.split('/').last;
-    return TextStyle(fontFamily: splitName);
+    return TextStyle(fontFamily: splitName, package: 'text_editor');
   }
 
   static TextStyle getTextStyleWithId(int id) {
