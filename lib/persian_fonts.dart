@@ -1,4 +1,4 @@
-library persian_fonts;
+library text_editor;
 
 import 'package:flutter/material.dart';
 
@@ -99,7 +99,7 @@ class HcFonts extends TextStyle {
     }
   }
 
-  static const Hc_1 = TextStyle(fontFamily: 'hc_1', package: 'persian_fonts');
+  static const Hc_1 = TextStyle(fontFamily: 'hc_1', package: 'text_editor');
 
   static TextTheme hc1TextTheme = TextTheme(
     headline2: HcFonts.Hc_1,
@@ -117,7 +117,7 @@ class HcFonts extends TextStyle {
     overline: HcFonts.Hc_1,
   );
 
-  static const Hc_2 = TextStyle(fontFamily: 'hc_2', package: 'persian_fonts');
+  static const Hc_2 = TextStyle(fontFamily: 'hc_2', package: 'text_editor');
 
   static TextTheme hc2TextTheme = TextTheme(
     headline2: HcFonts.Hc_2,
@@ -135,7 +135,7 @@ class HcFonts extends TextStyle {
     overline: HcFonts.Hc_2,
   );
 
-  static const Hc_3 = TextStyle(fontFamily: 'hc_3', package: 'persian_fonts');
+  static const Hc_3 = TextStyle(fontFamily: 'hc_3', package: 'text_editor');
 
   static TextTheme hc3TextTheme = TextTheme(
     headline2: HcFonts.Hc_3,
@@ -152,7 +152,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_3,
     overline: HcFonts.Hc_3,
   );
-  static const Hc_4 = TextStyle(fontFamily: 'hc_4', package: 'persian_fonts');
+  static const Hc_4 = TextStyle(fontFamily: 'hc_4', package: 'text_editor');
 
   static TextTheme hc4TextTheme = TextTheme(
     headline2: HcFonts.Hc_4,
@@ -169,7 +169,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_4,
     overline: HcFonts.Hc_4,
   );
-  static const Hc_5 = TextStyle(fontFamily: 'hc_5', package: 'persian_fonts');
+  static const Hc_5 = TextStyle(fontFamily: 'hc_5', package: 'text_editor');
 
   static TextTheme hc5TextTheme = TextTheme(
     headline2: HcFonts.Hc_5,
@@ -186,7 +186,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_5,
     overline: HcFonts.Hc_5,
   );
-  static const Hc_6 = TextStyle(fontFamily: 'hc_6', package: 'persian_fonts');
+  static const Hc_6 = TextStyle(fontFamily: 'hc_6', package: 'text_editor');
 
   static TextTheme hc6TextTheme = TextTheme(
     headline2: HcFonts.Hc_6,
@@ -203,7 +203,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_6,
     overline: HcFonts.Hc_6,
   );
-  static const Hc_7 = TextStyle(fontFamily: 'hc_7', package: 'persian_fonts');
+  static const Hc_7 = TextStyle(fontFamily: 'hc_7', package: 'text_editor');
 
   static TextTheme hc7TextTheme = TextTheme(
     headline2: HcFonts.Hc_7,
@@ -220,7 +220,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_7,
     overline: HcFonts.Hc_7,
   );
-  static const Hc_8 = TextStyle(fontFamily: 'hc_8', package: 'persian_fonts');
+  static const Hc_8 = TextStyle(fontFamily: 'hc_8', package: 'text_editor');
 
   static TextTheme hc8TextTheme = TextTheme(
     headline2: HcFonts.Hc_8,
@@ -237,7 +237,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_8,
     overline: HcFonts.Hc_8,
   );
-  static const Hc_9 = TextStyle(fontFamily: 'hc_9', package: 'persian_fonts');
+  static const Hc_9 = TextStyle(fontFamily: 'hc_9', package: 'text_editor');
 
   static TextTheme hc9TextTheme = TextTheme(
     headline2: HcFonts.Hc_9,
@@ -254,7 +254,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_9,
     overline: HcFonts.Hc_9,
   );
-  static const Hc_10 = TextStyle(fontFamily: 'hc_10', package: 'persian_fonts');
+  static const Hc_10 = TextStyle(fontFamily: 'hc_10', package: 'text_editor');
 
   static TextTheme hc10TextTheme = TextTheme(
     headline2: HcFonts.Hc_10,
@@ -271,7 +271,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_10,
     overline: HcFonts.Hc_10,
   );
-  static const Hc_11 = TextStyle(fontFamily: 'hc_11', package: 'persian_fonts');
+  static const Hc_11 = TextStyle(fontFamily: 'hc_11', package: 'text_editor');
 
   static TextTheme hc11TextTheme = TextTheme(
     headline2: HcFonts.Hc_11,
@@ -288,7 +288,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_11,
     overline: HcFonts.Hc_11,
   );
-  static const Hc_12 = TextStyle(fontFamily: 'hc_12', package: 'persian_fonts');
+  static const Hc_12 = TextStyle(fontFamily: 'hc_12', package: 'text_editor');
 
   static TextTheme hc12TextTheme = TextTheme(
     headline2: HcFonts.Hc_12,
@@ -305,7 +305,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_12,
     overline: HcFonts.Hc_12,
   );
-  static const Hc_13 = TextStyle(fontFamily: 'hc_13', package: 'persian_fonts');
+  static const Hc_13 = TextStyle(fontFamily: 'hc_13', package: 'text_editor');
 
   static TextTheme hc13TextTheme = TextTheme(
     headline2: HcFonts.Hc_13,
@@ -322,7 +322,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_13,
     overline: HcFonts.Hc_13,
   );
-  static const Hc_14 = TextStyle(fontFamily: 'hc_14', package: 'persian_fonts');
+  static const Hc_14 = TextStyle(fontFamily: 'hc_14', package: 'text_editor');
 
   static TextTheme hc14TextTheme = TextTheme(
     headline2: HcFonts.Hc_14,
@@ -339,7 +339,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_14,
     overline: HcFonts.Hc_14,
   );
-  static const Hc_15 = TextStyle(fontFamily: 'hc_15', package: 'persian_fonts');
+  static const Hc_15 = TextStyle(fontFamily: 'hc_15', package: 'text_editor');
 
   static TextTheme hc15TextTheme = TextTheme(
     headline2: HcFonts.Hc_15,
@@ -356,7 +356,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_15,
     overline: HcFonts.Hc_15,
   );
-  static const Hc_16 = TextStyle(fontFamily: 'hc_16', package: 'persian_fonts');
+  static const Hc_16 = TextStyle(fontFamily: 'hc_16', package: 'text_editor');
 
   static TextTheme hc16TextTheme = TextTheme(
     headline2: HcFonts.Hc_16,
@@ -373,7 +373,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_16,
     overline: HcFonts.Hc_16,
   );
-  static const Hc_17 = TextStyle(fontFamily: 'hc_17', package: 'persian_fonts');
+  static const Hc_17 = TextStyle(fontFamily: 'hc_17', package: 'text_editor');
 
   static TextTheme hc17TextTheme = TextTheme(
     headline2: HcFonts.Hc_17,
@@ -390,7 +390,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_17,
     overline: HcFonts.Hc_17,
   );
-  static const Hc_18 = TextStyle(fontFamily: 'hc_18', package: 'persian_fonts');
+  static const Hc_18 = TextStyle(fontFamily: 'hc_18', package: 'text_editor');
 
   static TextTheme hc18TextTheme = TextTheme(
     headline2: HcFonts.Hc_18,
@@ -407,7 +407,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_18,
     overline: HcFonts.Hc_18,
   );
-  static const Hc_19 = TextStyle(fontFamily: 'hc_19', package: 'persian_fonts');
+  static const Hc_19 = TextStyle(fontFamily: 'hc_19', package: 'text_editor');
 
   static TextTheme hc19TextTheme = TextTheme(
     headline2: HcFonts.Hc_19,
@@ -424,7 +424,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_19,
     overline: HcFonts.Hc_19,
   );
-  static const Hc_20 = TextStyle(fontFamily: 'hc_20', package: 'persian_fonts');
+  static const Hc_20 = TextStyle(fontFamily: 'hc_20', package: 'text_editor');
 
   static TextTheme hc20TextTheme = TextTheme(
     headline2: HcFonts.Hc_20,
@@ -441,7 +441,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_20,
     overline: HcFonts.Hc_20,
   );
-  static const Hc_21 = TextStyle(fontFamily: 'hc_21', package: 'persian_fonts');
+  static const Hc_21 = TextStyle(fontFamily: 'hc_21', package: 'text_editor');
 
   static TextTheme hc21TextTheme = TextTheme(
     headline2: HcFonts.Hc_21,
@@ -458,7 +458,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_21,
     overline: HcFonts.Hc_21,
   );
-  static const Hc_22 = TextStyle(fontFamily: 'hc_22', package: 'persian_fonts');
+  static const Hc_22 = TextStyle(fontFamily: 'hc_22', package: 'text_editor');
 
   static TextTheme hc22TextTheme = TextTheme(
     headline2: HcFonts.Hc_22,
@@ -475,7 +475,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_22,
     overline: HcFonts.Hc_22,
   );
-  static const Hc_23 = TextStyle(fontFamily: 'hc_23', package: 'persian_fonts');
+  static const Hc_23 = TextStyle(fontFamily: 'hc_23', package: 'text_editor');
 
   static TextTheme hc23TextTheme = TextTheme(
     headline2: HcFonts.Hc_23,
@@ -492,7 +492,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_23,
     overline: HcFonts.Hc_23,
   );
-  static const Hc_24 = TextStyle(fontFamily: 'hc_24', package: 'persian_fonts');
+  static const Hc_24 = TextStyle(fontFamily: 'hc_24', package: 'text_editor');
 
   static TextTheme hc24TextTheme = TextTheme(
     headline2: HcFonts.Hc_24,
@@ -509,7 +509,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_24,
     overline: HcFonts.Hc_24,
   );
-  static const Hc_25 = TextStyle(fontFamily: 'hc_25', package: 'persian_fonts');
+  static const Hc_25 = TextStyle(fontFamily: 'hc_25', package: 'text_editor');
 
   static TextTheme hc25TextTheme = TextTheme(
     headline2: HcFonts.Hc_25,
@@ -526,7 +526,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_25,
     overline: HcFonts.Hc_25,
   );
-  static const Hc_26 = TextStyle(fontFamily: 'hc_26', package: 'persian_fonts');
+  static const Hc_26 = TextStyle(fontFamily: 'hc_26', package: 'text_editor');
 
   static TextTheme hc26TextTheme = TextTheme(
     headline2: HcFonts.Hc_26,
@@ -543,7 +543,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_26,
     overline: HcFonts.Hc_26,
   );
-  static const Hc_27 = TextStyle(fontFamily: 'hc_27', package: 'persian_fonts');
+  static const Hc_27 = TextStyle(fontFamily: 'hc_27', package: 'text_editor');
 
   static TextTheme hc27TextTheme = TextTheme(
     headline2: HcFonts.Hc_27,
@@ -560,7 +560,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_27,
     overline: HcFonts.Hc_27,
   );
-  static const Hc_28 = TextStyle(fontFamily: 'hc_28', package: 'persian_fonts');
+  static const Hc_28 = TextStyle(fontFamily: 'hc_28', package: 'text_editor');
 
   static TextTheme hc28TextTheme = TextTheme(
     headline2: HcFonts.Hc_28,
@@ -577,7 +577,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_28,
     overline: HcFonts.Hc_28,
   );
-  static const Hc_29 = TextStyle(fontFamily: 'hc_29', package: 'persian_fonts');
+  static const Hc_29 = TextStyle(fontFamily: 'hc_29', package: 'text_editor');
 
   static TextTheme hc29TextTheme = TextTheme(
     headline2: HcFonts.Hc_29,
@@ -594,7 +594,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_29,
     overline: HcFonts.Hc_29,
   );
-  static const Hc_30 = TextStyle(fontFamily: 'hc_30', package: 'persian_fonts');
+  static const Hc_30 = TextStyle(fontFamily: 'hc_30', package: 'text_editor');
 
   static TextTheme hc30TextTheme = TextTheme(
     headline2: HcFonts.Hc_30,
@@ -611,7 +611,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_30,
     overline: HcFonts.Hc_30,
   );
-  static const Hc_32 = TextStyle(fontFamily: 'hc_32', package: 'persian_fonts');
+  static const Hc_32 = TextStyle(fontFamily: 'hc_32', package: 'text_editor');
 
   static TextTheme hc32TextTheme = TextTheme(
     headline2: HcFonts.Hc_32,
@@ -629,7 +629,7 @@ class HcFonts extends TextStyle {
     overline: HcFonts.Hc_32,
   );
 
-  static const Hc_33 = TextStyle(fontFamily: 'hc_33', package: 'persian_fonts');
+  static const Hc_33 = TextStyle(fontFamily: 'hc_33', package: 'text_editor');
 
   static TextTheme hc33TextTheme = TextTheme(
     headline2: HcFonts.Hc_33,
@@ -646,7 +646,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_33,
     overline: HcFonts.Hc_33,
   );
-  static const Hc_34 = TextStyle(fontFamily: 'hc_34', package: 'persian_fonts');
+  static const Hc_34 = TextStyle(fontFamily: 'hc_34', package: 'text_editor');
 
   static TextTheme hc34TextTheme = TextTheme(
     headline2: HcFonts.Hc_34,
@@ -663,7 +663,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_34,
     overline: HcFonts.Hc_34,
   );
-  static const Hc_35 = TextStyle(fontFamily: 'hc_35', package: 'persian_fonts');
+  static const Hc_35 = TextStyle(fontFamily: 'hc_35', package: 'text_editor');
 
   static TextTheme hc35TextTheme = TextTheme(
     headline2: HcFonts.Hc_35,
@@ -680,7 +680,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_35,
     overline: HcFonts.Hc_35,
   );
-  static const Hc_36 = TextStyle(fontFamily: 'hc_36', package: 'persian_fonts');
+  static const Hc_36 = TextStyle(fontFamily: 'hc_36', package: 'text_editor');
 
   static TextTheme hc36TextTheme = TextTheme(
     headline2: HcFonts.Hc_36,
@@ -697,7 +697,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_36,
     overline: HcFonts.Hc_36,
   );
-  static const Hc_37 = TextStyle(fontFamily: 'hc_37', package: 'persian_fonts');
+  static const Hc_37 = TextStyle(fontFamily: 'hc_37', package: 'text_editor');
 
   static TextTheme hc37TextTheme = TextTheme(
     headline2: HcFonts.Hc_37,
@@ -714,7 +714,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_37,
     overline: HcFonts.Hc_37,
   );
-  static const Hc_38 = TextStyle(fontFamily: 'hc_38', package: 'persian_fonts');
+  static const Hc_38 = TextStyle(fontFamily: 'hc_38', package: 'text_editor');
 
   static TextTheme hc38TextTheme = TextTheme(
     headline2: HcFonts.Hc_38,
@@ -731,7 +731,7 @@ class HcFonts extends TextStyle {
     button: HcFonts.Hc_38,
     overline: HcFonts.Hc_38,
   );
-  static const Hc_39 = TextStyle(fontFamily: 'hc_39', package: 'persian_fonts');
+  static const Hc_39 = TextStyle(fontFamily: 'hc_39', package: 'text_editor');
 
   static TextTheme hc39TextTheme = TextTheme(
     headline2: HcFonts.Hc_39,
@@ -752,7 +752,7 @@ class HcFonts extends TextStyle {
  Samim Font: https://github.com/rastikerdar/samim-font
 */
 
-  static const Hc_40 = TextStyle(fontFamily: 'hc_40', package: 'persian_fonts');
+  static const Hc_40 = TextStyle(fontFamily: 'hc_40', package: 'text_editor');
 
   static TextTheme samimTextTheme = TextTheme(
     headline2: HcFonts.Hc_40,
@@ -774,7 +774,7 @@ class HcFonts extends TextStyle {
  Shabnam Font: https://github.com/rastikerdar/shabnam-font
 */
 
-  static const Hc_41 = TextStyle(fontFamily: 'hc_41', package: 'persian_fonts');
+  static const Hc_41 = TextStyle(fontFamily: 'hc_41', package: 'text_editor');
 
   static TextTheme shabnamTextTheme = TextTheme(
     headline2: HcFonts.Hc_41,
