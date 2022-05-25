@@ -50,10 +50,11 @@ class _FontFamilyPicker extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            'Aa',
+            'Ab',
             style: TextStyle(
               color: isSelected ? Colors.orange : Colors.white,
               fontFamily: font,
+              package: 'text_editor',
             ),
           ),
         ),
