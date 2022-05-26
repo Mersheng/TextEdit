@@ -178,10 +178,10 @@ class _TextEditorState extends State<TextEditor> {
             Expanded(
               child: Row(
                 children: [
-                  FontSize(
-                    minFontSize: widget.minFontSize!,
-                    maxFontSize: widget.maxFontSize!,
-                  ),
+                  // FontSize(
+                  //   minFontSize: widget.minFontSize!,
+                  //   maxFontSize: widget.maxFontSize!,
+                  // ),
                   Expanded(
                     child: Container(
                       child: Center(
